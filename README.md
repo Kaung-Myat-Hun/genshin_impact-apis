@@ -1,5 +1,5 @@
 ## This is node js project 
-### Name as genshin impact apis
+### Name as game character showcase apis
 ### This project is show the character details 
 ----------
 #### date format (dd/mm/yyyy)
