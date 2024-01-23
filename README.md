@@ -4,7 +4,7 @@
 ----------
 #### Free opensource code 
 ---------
-###  #Author - (<a href="https://github.com/KaungMyatHun-15691" >Bate Thar<a>)
+###  #Author - (<a href="https://github.com/Kaung-Myat-Hun" >Bate Thar<a>)
 
 ##### #before run this project make sure install depedencies with npm install
 ##### #run this project with npm start 
